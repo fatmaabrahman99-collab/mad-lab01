@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tz.ac.suza.hellosuza.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-30T09:09:40.771Z" hostname="SAMSUNG" time="0.032">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="tz.ac.suza.hellosuza.ExampleUnitTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
